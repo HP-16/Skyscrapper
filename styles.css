@@ -1,0 +1,72 @@
+/* <!-- Title section --> */
+
+
+#title {
+  background-color: #ffeadb;
+  text-align: center;
+}
+
+
+h1{
+  font-family: 'Pacifico', cursive;
+}
+
+h3{
+  font-family: 'Pacifico', cursive;
+  font-family: 'Syne Tactile', cursive;
+}
+
+
+p{
+  font-family: 'Kaushan Script', cursive;
+  font-family: 'Pacifico', cursive;
+  font-family: 'Syne Tactile', cursive
+}
+
+
+.programmer{
+  margin-bottom: 120px;
+  margin-left: 30px;
+}
+
+
+.developer{
+  margin-left: 60px;
+  margin-bottom: 60px;
+}
+
+
+
+
+/* Skillfield */
+
+#Skillfield {
+  background-color: #ccf6c8;
+  text-align: center;
+}
+
+
+.car{
+  height: 512px;
+  width: 512px;
+}
+
+
+
+.carousel-control-next-icon{
+  color:red;
+}
+
+
+/* Footer */
+
+#footer{
+  background-color: #3797a4;
+  text-align: center;
+}
+
+
+.social-icon{
+  padding: 50px;
+  color:#eeeded;
+}
